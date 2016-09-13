@@ -1,0 +1,24 @@
+{
+  "name": "apple_meeh",
+  "version": "1.0.0",
+  "description": "Just a shitty arduino project that turns a moo box when anyone uses \"#apple\" on twitter.",
+  "main": "index.js",
+  "dependencies": {
+    "http": "^0.0.0",
+    "node-tweet-stream": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Durss/apple_meeh.git"
+  },
+  "author": "durss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Durss/apple_meeh/issues"
+  },
+  "homepage": "https://github.com/Durss/apple_meeh#readme"
+}
